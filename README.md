@@ -4,6 +4,10 @@ Visualization and Simulation of Variants in Personal Genomes With an Application
 
 This user guide have been tested on Ubuntu version 16.04.
 
+## Demo
+
+A public demo of VSIM is available at http://vsim.phenomebrowser.net/. The server is for testing and demonstration purposes only. Do not use the demo server to submit human VCF files!
+
 ## Hardware requirements
  - At least 32 GB RAM to process and accommodate the necessary databases for annotation.
 
